@@ -2,7 +2,7 @@
   "name": "GoldenAngleGenerator",
   "version": "1.0.0",
   "description": "Layout seeds using the golden angle and variations",
-  "main": "index.js",
+  "main": "./src/app/index.js",
   "scripts": {
     "watch": "webpack -d --watch",
     "build": "webpack -p",
